@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    
+        <title>Page Title</title>
+    </head>
+    <body>
+    <h1>Cute Bundles of Love</h1>
+    <br>
+    <img src=https://s-media-cache-ak0.pinimg.com/736x/da/93/c4/da93c4b04f7c0423e54002952481d237--ferret-cute-cute-ferrets.jpg alt="ferrets"
+    
+        <p>By: Jonnelle & Frida </p>
+        <h2> Who we are </h2>
+        <p>Our team Help4theWild, is a well known organization that work towards gainng recognition that wildlife deserve to be loved by great families not just domestic animals. We are here to provide homes for these adorable ferrets and do our best to help find the best fit for them </p> 
+         <img src =http://www.marshallferrets.com/images/ufNYRU/d8a8_700w/FerretColor_Chart_copy.jpg alt= "types" >
+        <h2> Our Client</h2>
+        <p> Our client Bob from Bob's Burgers has been urged by his edgy teenge daughter Tina to adopt an adorable ferret. Tine is is looking for cool dude ready to explore the world with her and attract the most attraction from the most popular kids in school.</p>
+        <img src=https://d2npbuaakacvlz.cloudfront.net/images/uploaded/large-present/2013/12/13/ferret-stuff-desk-stuff-1386937671.jpg alt= swag
+        
+    </body>
+</html>
+body{ 
+   
+   font-size: 17px;
+   background: #c1c3ff;
+}
