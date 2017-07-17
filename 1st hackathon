@@ -3,6 +3,7 @@
     <head>
     
         <title>Page Title</title>
+         <link rel="stylesheet" type="text/css" href="stylesheet.css">
     </head>
     <body>
     <h1>Cute Bundles of Love</h1>
@@ -19,8 +20,4 @@
         
     </body>
 </html>
-body{ 
-   
-   font-size: 17px;
-   background: #c1c3ff;
-}
+
