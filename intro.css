@@ -1,0 +1,42 @@
+H1{
+    color:#3385ff;
+    font-size:50px;
+    font-family:"Papyrus";
+}
+
+#img1{
+ height: 300px;
+ width: 300px;
+    
+}
+H1{
+    width:2000px;
+    height:70px;
+    background-color:#0d0d0d;
+}
+body{background: #5c00e6;}
+li{
+    margin:10px;
+    height:70px;
+    font-size:25px;
+    width:20px;
+    font-family: "Century Gothic";
+    color:#e5e5ff;
+}
+
+p{
+    height:10px;
+    width: 300px;
+    margin:0px;
+    padding:0px;
+    font-size:15px;
+    text-align: right;
+    clear:right;
+    float: right;
+    }
+
+li{
+    background-color:#0d0d0d;
+    width:200px;
+    height:50px;
+    }
